@@ -1,0 +1,7 @@
+https://youtu.be/SWYqp7iY_Tc
+
+touch index.html to create the file (html)
+
+1 - git init (to initialize git repository)
+2- git config --global user.email 'a.elmobachi@gmail.com' (you can use it for as many as you want, to enter you personal information)
+3- git add index.html
